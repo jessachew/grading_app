@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396133766616",
+    "project_id": "andresgradingsystem",
+    "storage_bucket": "andresgradingsystem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396133766616:android:feabb7fb13338f63260ead",
+        "android_client_info": {
+          "package_name": "com.example.grading_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDErNVQZ-37_1BTkznJaw829Qr7TpOUXXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
